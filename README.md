@@ -353,6 +353,16 @@ Start adding your names here:
 - I love gaming and hope to become a game dev!
 - [![twitter-alt][twitter-img]](https://twitter.com/WitchScript)
   [![github-alt][github-img]](https://github.com/LaurenReilly)
+  
+### Shivani Gupta
+- Engineering Student,Frontend Web developer
+- Hobbies:
+  - Programming
+  - Web Designing
+  - Netflix
+  -Gyming
+- Work with HTML,CSS,Bootstrap and Javascript
+- [![github-alt][github-img]](https://github.com/Gshivani1234)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
